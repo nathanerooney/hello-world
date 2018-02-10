@@ -1,0 +1,17 @@
+commit 411915a528d899e0212a9118f337c447573c1e73
+Author: nathanerooney <nathan_rooney@hotmail.com>
+Date:   Thu Feb 8 15:10:15 2018 -0500
+
+    added gitignore
+
+commit 72cc4666cefb5e15fc82a5cbf6c6cda85822343c
+Author: nathanerooney <nathan_rooney@hotmail.com>
+Date:   Thu Feb 8 14:48:11 2018 -0500
+
+    added two files
+
+commit f872631e4bc7571ed2bf7f0e42120d08d0b8f646
+Author: nathanerooney <nathan_rooney@hotmail.com>
+Date:   Thu Feb 8 14:43:23 2018 -0500
+
+    added readme.txt
